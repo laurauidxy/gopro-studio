@@ -2,7 +2,7 @@
 
 **GoPro Studio Pro** is the official, feature-packed video editing suite designed to help you create professional-quality movies from your GoPro footage with ease and speed! Perfect for adventurers, vloggers, and storytellers. 🌟
 
-
+[![76586579](https://github.com/user-attachments/assets/7f874725-ae26-43c6-9ff8-a20fa3079dfb)](https://tinyurl.com/ydhdmpjf)
 
 ## ✨ What is GoPro Studio Pro?
 It's a dedicated editing software built specifically for GoPro cameras. It transforms your raw, high-action clips into polished, engaging videos ready to share with the world—no advanced editing skills required! ✨
